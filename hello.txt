@@ -1,13 +1,2 @@
-hello
-hello
-hello
-11111
-hello
-hello
-hello
-hello
-11111
-11111
-11111
-11111
-hello
+git 你好:
+第一次使用git
