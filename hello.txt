@@ -1,7 +1,2 @@
 git 你好:
-第一次使用git
-hello
-hello
-hello
-hello
-hello
+第二次使用git
